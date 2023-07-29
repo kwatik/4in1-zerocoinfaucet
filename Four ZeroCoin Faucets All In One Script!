@@ -2,8 +2,8 @@
 // @name            Four ZeroCoin Faucets All In One Script!
 // @namespace       http://tampermonkey.net/
 // @version         1.0
-// @description     Earn Free Zerocoin With Instant Withdraws.
-// @author          Elmer76
+// @description     Earn Free Zerocoin
+// @author          blakbandit
 // @license         MIT
 // @match           https://camelbtc.com/*
 // @match           https://rimakoko.com/*
